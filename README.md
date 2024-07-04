@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Copyright-PopCap-blue)
 ![Static Badge](https://img.shields.io/badge/Michael%20vs%20Lalapan-52AA1F)
 
-![Header](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/Header.png)
+![Header](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/Header.png)
 
 # **Tugas Besar Object Oriented Programming IF2212 K3 Kelompok 3**  
 _______
@@ -57,27 +57,27 @@ Game Features:
 
 Main Menu
 
-![App Screenshot](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/MainMenu.png)
+![App Screenshot](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/MainMenu.png)
 
 Preparation
 
-![App Screenshot](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/Preparation.png)
+![App Screenshot](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/Preparation.png)
 
 Plants List
 
-![App Screenshot](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/PlantsList.png)
+![App Screenshot](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/PlantsList.png)
 
 Zombies List
 
-![App Screenshot](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/ZombiesList.png)
+![App Screenshot](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/ZombiesList.png)
 
 Gameplay
 
-![App Screenshot](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/Game.png)
+![App Screenshot](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/Game.png)
 
 Booklet Preview
 
-![App Screenshot](https://github.com/qiewi/Michael-vs-Lalapan/blob/main/readme%20assets/Booklet.png)
+![App Screenshot](https://github.com/qiemchi/Michael-Vs-Lalapan/blob/main/readme%20assets/Booklet.png)
 
 
 ## Tech Needs
