@@ -92,7 +92,7 @@ Booklet Preview
 Clone the Project
 
 ```bash
-  git clone https://github.com/qiewi/Michael-vs-Lalapan.git
+  git clone https://github.com/qiemchi/Michael-Vs-Lalapan.git
 ```
 
 Go to the Project Directory
